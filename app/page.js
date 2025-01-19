@@ -15,9 +15,11 @@ export default function Home() {
           post
         </Card>
       </div>
-
-
+      <div>
+        
+      </div>
     </div>
+
     
   );
 }
