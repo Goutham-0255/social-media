@@ -6,10 +6,10 @@ module.exports = {
     "./app/**/*.{js,ts,jsx,tsx,mdx}",
   ],
   theme: {
-    extend: {
-      colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+      extend: {
+        colors: {
+          socialbg: "#F8F8FC",
+          socialblue: "#218DFA",
       },
     },
   },
